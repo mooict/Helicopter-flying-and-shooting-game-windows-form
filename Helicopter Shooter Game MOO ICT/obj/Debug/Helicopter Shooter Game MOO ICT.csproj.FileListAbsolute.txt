@@ -1,0 +1,10 @@
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Helicopter Shooter Game MOO ICT\Helicopter Shooter Game MOO ICT\bin\Debug\Helicopter Shooter Game MOO ICT.exe.config
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Helicopter Shooter Game MOO ICT\Helicopter Shooter Game MOO ICT\bin\Debug\Helicopter Shooter Game MOO ICT.exe
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Helicopter Shooter Game MOO ICT\Helicopter Shooter Game MOO ICT\bin\Debug\Helicopter Shooter Game MOO ICT.pdb
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Helicopter Shooter Game MOO ICT\Helicopter Shooter Game MOO ICT\obj\Debug\Helicopter Shooter Game MOO ICT.csprojAssemblyReference.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Helicopter Shooter Game MOO ICT\Helicopter Shooter Game MOO ICT\obj\Debug\Helicopter_Shooter_Game_MOO_ICT.Form1.resources
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Helicopter Shooter Game MOO ICT\Helicopter Shooter Game MOO ICT\obj\Debug\Helicopter_Shooter_Game_MOO_ICT.Properties.Resources.resources
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Helicopter Shooter Game MOO ICT\Helicopter Shooter Game MOO ICT\obj\Debug\Helicopter Shooter Game MOO ICT.csproj.GenerateResource.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Helicopter Shooter Game MOO ICT\Helicopter Shooter Game MOO ICT\obj\Debug\Helicopter Shooter Game MOO ICT.csproj.CoreCompileInputs.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Helicopter Shooter Game MOO ICT\Helicopter Shooter Game MOO ICT\obj\Debug\Helicopter Shooter Game MOO ICT.exe
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Helicopter Shooter Game MOO ICT\Helicopter Shooter Game MOO ICT\obj\Debug\Helicopter Shooter Game MOO ICT.pdb
